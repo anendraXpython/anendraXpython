@@ -18,8 +18,8 @@
 📂 Projects coming soon…
 
 📫 Connect with me:
-- 💼 LinkedIn: [Your LinkedIn link here]
-- 🧠 LeetCode: [Your LeetCode link here]
+- 💼 LinkedIn: 
+- 🧠 LeetCode: 
 
 ---
 
