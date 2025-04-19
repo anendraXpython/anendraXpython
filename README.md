@@ -13,7 +13,7 @@
 🚀 Goals:
 - Master Python & DSA
 - Build real-world apps
-- Land a G package!
+- Land a fabulous package!
 
 📂 Projects coming soon…
 
