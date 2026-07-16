@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Anendra Singh Rajawat (aka anendraXpython)!
 
-🔧 BTech CSE | 2st Year | Python Enthusiast  
+🔧 BTech CSE | Python Enthusiast  
 📘 Currently learning:
 
 - Python
