@@ -18,7 +18,7 @@
 📂 Projects coming soon…
 
 📫 Connect with me:
-- 💼 LinkedIn: https://www.linkedin.com/in/anendra-rajawat-a6aaab212/
+- 💼 LinkedIn: https://www.linkedin.com/in/anendra-singh-rajawat-a6aaab212/
 - 🧠 LeetCode: https://leetcode.com/anendraXpython
 
 ---
