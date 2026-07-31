@@ -46,7 +46,7 @@
 
 ### 📂 Featured Project
 
-**🏡 [Nestly — Real Estate Listing Portal]([repo-link](https://github.com/anendraXpython/SUMMER-INTERNSHIP-2026-VGU/tree/main/Nestly_Real_Estate_Listing_Portal))**
+**🏡 [Nestly — Real Estate Listing Portal](/[repo-link](https://github.com/anendraXpython/SUMMER-INTERNSHIP-2026-VGU/tree/main/Nestly_Real_Estate_Listing_Portal))**
 A full-stack real estate platform built with the MERN stack. Buyers can search and filter listings, view them on an interactive Leaflet map (clustering, draw-to-search, price heatmap), run a real mortgage amortization calculator, chat live with agents over Socket.io, and save searches for email alerts. Agents manage listings through a dashboard with subscription plans and real Stripe Checkout.
 `React` `Node.js` `Express` `MongoDB` `Socket.io` `Leaflet` `Stripe`
 
