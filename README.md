@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Anendra Singh Rajawat 👋</h1>
-<h3 align="center">B.Tech CSE Student | Python Enthusiast | Problem Solver</h3>
+<h3 align="center">B.Tech CSE Student | MERN Full-Stack Developer | Python & DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anendra-singh-rajawat-a6aaab212/">
@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/anendraXpython">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rajawatanendra2306@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -18,31 +18,42 @@
 ### 🧭 About Me
 
 - 🎓 B.Tech CSE student at **Vivekananda Global University, Jaipur, Rajasthan**
-- 🐍 Currently learning **Python** in depth
+- 🌐 Building full-stack web applications with the **MERN stack** — MongoDB, Express, React, Node.js
+- 🐍 Also learning **Python** in depth, alongside JavaScript/Node
 - 🧩 Practicing **Data Structures & Algorithms** on LeetCode
-- 🛠️ Building **Python scripts and small projects** to sharpen fundamentals
-- 🔍 Exploring **backend development and automation** with Python
+- 🛠️ Building real projects — REST APIs, real-time features (Socket.io), and interactive React frontends
 - 💬 Always open to learning from and collaborating with other developers
 
 ### 🎯 Current Goals
 
-- 🏆 Master Python & DSA
-- 🚀 Build real-world, production-style applications
-- 💼 Land a strong software engineering role
+- 🚀 Ship more full-stack MERN projects, end to end
+- 🏆 Master DSA and get stronger at Python
+- 💼 Land a strong software engineering / full-stack developer role
 
 ### 🧰 Tech Stack
+
+**Full-Stack (MERN):**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css" />
+</p>
+
+**Languages & Tools:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,linux,mysql" />
 </p>
 
-### 📂 Projects
+### 📂 Featured Project
 
-> Actively building — my first projects will be pinned here soon. In the meantime, check out what I'm solving on [LeetCode](https://leetcode.com/anendraXpython).
+**🏡 [Nestly — Real Estate Listing Portal]([repo-link](https://github.com/anendraXpython/SUMMER-INTERNSHIP-2026-VGU/tree/main/Nestly_Real_Estate_Listing_Portal))**
+A full-stack real estate platform built with the MERN stack. Buyers can search and filter listings, view them on an interactive Leaflet map (clustering, draw-to-search, price heatmap), run a real mortgage amortization calculator, chat live with agents over Socket.io, and save searches for email alerts. Agents manage listings through a dashboard with subscription plans and real Stripe Checkout.
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `Leaflet` `Stripe`
+
+> More projects coming soon — in the meantime, check out what I'm solving on [LeetCode](https://leetcode.com/anendraXpython).
 
 <!--
-### 🔗 Featured Projects
-- **[Project Name](repo-link)** — one-line description of what it does and what you used to build it.
+### 🔗 More Projects
 - **[Project Name](repo-link)** — one-line description of what it does and what you used to build it.
 -->
 
